@@ -2,7 +2,6 @@ package practice10;
 
 import java.util.Collection;
 import java.util.Collections;
-import java.util.stream.Collectors;
 
 import static java.util.stream.Collectors.joining;
 

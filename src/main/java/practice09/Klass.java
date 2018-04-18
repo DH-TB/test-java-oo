@@ -33,7 +33,7 @@ public class Klass {
     }
 
     public void assignLeader(Student student){
-        if(this.equals(student.getKlass())){
+        if(this==student.getKlass()){
             this.leader = student;
         }
         else {

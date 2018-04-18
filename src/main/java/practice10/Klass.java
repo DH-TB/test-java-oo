@@ -1,5 +1,7 @@
 package practice10;
 
+import java.util.Objects;
+
 public class Klass {
 
     private Integer number;
